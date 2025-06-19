@@ -18,3 +18,8 @@ Seguem alguns tópicos e anotações:
 # Criando máquinas virtuais no Azure
 Aprofundei os conceitos vistos nos módulos anteriores mas ainda não consegui criar a conta estudantil que está pendente de validação. 
 Aprendi a criar uma máquina virtual e assim que conseguir acesso ao Azure conta estudantil vou inserir os prints dos recursos criados.
+
+# Tipos de serviços de Nuvem
+Entramos mais na parte de PAAS, SAAS e IAAS, além de conhecer melhor os recursos oferecidos no portal do Azure.
+O desafio consiste em criar um banco de dados no Azure, farei assim que conseguir regularizar minha matrícula para criar a conta estudantil.
+Link para consulta posterior: https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-create-quickstart?view=azuresql&tabs=azure-portal
